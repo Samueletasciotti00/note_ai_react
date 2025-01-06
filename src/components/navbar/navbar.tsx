@@ -1,11 +1,10 @@
+import './navbar.css'
 // Navbar component
 export default function Navbar() {
     return(
-        <div>
-            {/* Container del componente */}
-            <div className="nav-bar">
-
-            </div>
+        // container componente
+        <div className="nav-bar">
+           
         </div>
     )
 }

@@ -1,0 +1,7 @@
+/* Container */
+.nav-bar{
+    width: 100%;
+    background-color: var(--comp-bg);
+    min-height: 80px;
+    border: 1px solid red;
+}

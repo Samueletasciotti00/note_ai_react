@@ -15,3 +15,9 @@ basterà registrarsi in pochi passaggi e utilizzare il servizio in maniera gratu
 ## CONTRIBUTORS:
 L'app è interamente gestita dal sottoscritto, eventualmente si può pensare a progetti in collab. se ne avete la pazienza
 samueletasciotti@icloud.com
+
+<!-- Componenti principali dell'app -->
+### COLORS DARK MODE: 
+Sfondo dell'App (#212121)
+Testo dell'App (#ececec)
+Sfondo componenti (#2f2f2f)

@@ -1,0 +1,13 @@
+/* variables */
+:root{
+    /* Background */
+    --dark-mode:#212121;
+    --text: #ececec;
+    /* compontents background */
+    --comp-bg: #2f2f2f;
+}
+
+body{
+    background-color: var(--dark-mode);
+    color: var(--text);
+}

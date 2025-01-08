@@ -1,18 +1,21 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", serif;
+  font-weight: 400;
+  font-style: normal;
 }
 /* variables */
-:root{
-    /* Background */
-    --dark-mode:#212121;
-    --text: #ececec;
-    /* compontents background */
-    --comp-bg: #2f2f2f;
+:root {
+  /* Background */
+  --dark-mode: #212121;
+  --text: #ececec;
+  /* compontents background */
+  --comp-bg: #2f2f2f;
 }
 
-body{
-    background-color: var(--dark-mode);
-    color: var(--text);
+body {
+  background-color: var(--dark-mode);
+  color: var(--text);
 }

@@ -3,5 +3,13 @@
     width: 100%;
     background-color: var(--comp-bg);
     min-height: 80px;
-    border: 1px solid red;
+    border: 1px solid #fff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/* Titol in container */
+.nav-bar h1{
+    marg
 }
